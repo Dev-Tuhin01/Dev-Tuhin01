@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.teahub.io/photos/full/237-2376520_twitter-header-wallpapers-minimalist-dual-monitor-wallpaper-4k.jpg)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://www.teahub.io/photos/full/237-2376520_twitter-header-wallpapers-minimalist-dual-monitor-wallpaper-4k.jpg](https://thumbs.dreamstime.com/z/set-programming-vertical-banners-set-programming-vertical-banners-idea-working-computer-coding-testing-writing-123661241.jpg))
 <h1 align="center">Hi 👋, I'm Tuhin Shubhra Chakraborty</h1>
 <h3 align="center">A passionate Full Stack and Software developer from India</h3>
 
