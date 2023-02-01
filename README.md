@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **Foodiez**
+- 🔭 I’m currently studying in **Raiganj University**
 
-- 🌱 I’m currently learning **NodeJS,Java**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [github.com/Dev-Tuhin01/Dev-Tuhin01/](github.com/Dev-Tuhin01/Dev-Tuhin01/)
 
