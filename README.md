@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend techs**
 
-- 📫 How to reach me **https://www.instagram.com/the_sol_ceaserion/**
+- 📫 How to reach me **https://www.instagram.com/frost_code2022/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
