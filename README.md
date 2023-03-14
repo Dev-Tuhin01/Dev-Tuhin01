@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/teepublic/image/private/s--1AKT9pNy--/t_Preview/t_watermark_lock/b_rgb:191919,c_lpad,f_jpg,h_630,q_90,w_1200/v1607262159/production/designs/16968509_0.jpg)
+[![MasterHead](https://i.redd.it/xe8g0hr20zh11.jpg)
 <h1 align="center">Hi 👋, I'm Tuhin Shubhra Chakraborty</h1>
 <h3 align="center">A passionate Full Stack and Software developer from India</h3>
 
