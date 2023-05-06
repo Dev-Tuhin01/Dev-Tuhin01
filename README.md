@@ -2,10 +2,7 @@
 <h1 align="center"> Hi 👋🏼, I'm  Tuhin Shubhra Chakraborty</h1>
 <h3 align="center"> A passionate frontend developer and Student from  India</h3>
 
-
-<img src="https://komarev.com/ghpvc/?username=dev-tuhin01&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tuhin01 views" /> 
-
-
+<img src="https://komarev.com/ghpvc/?username=dev-tuhin01&label=Profile%20views&color=0e75b6&style=flat" alt="dev-tuhin01 views" />
 
 <a href="https://youtu.be/dQw4w9WgXcQ"><img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"></a>
 
@@ -74,6 +71,7 @@
 <div id="others">
     <h2>Other things I use</h2>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="dev-ide-VScode"/> 
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="dev-ide-NVim"/> 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="dev-ide-VS"/> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS"/> 
     <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Browser"/> 
