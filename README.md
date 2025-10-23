@@ -1,4 +1,4 @@
-![Header](./Assets/your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 # 💫 About Me:
 👨🏼‍🎓 I’m currently studying in MCA @ MAKAUT,WB<br>🔭 I’m currently working on Aries: A Collaborative text editor<br>🌱 I’m currently learning Cloud computing<br>👨‍💻 All of my projects are available at github.com/Dev-Tuhin01/Dev-Tuhin01/<br>💬 Ask me about Fullstack and DSA
